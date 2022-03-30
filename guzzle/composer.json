@@ -1,0 +1,10 @@
+{
+    "name": "mohamedsaid/weather",
+    "autoload": {
+        "classmap": ["Model"],
+        "files": ["config.php"]
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
